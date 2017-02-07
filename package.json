@@ -1,0 +1,36 @@
+{
+  "directories": {
+    "test": "test"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "lib/",
+  ],
+  "name": "render-markdown-with-position",
+  "version": "1.0.0",
+  "description": "Render markdown to HTML with data-position",
+  "main": "lib/render-markdown-with-position.js",
+  "scripts": {
+    "test": "node test/index-test.js"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/render-markdown-with-position.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azu/render-markdown-with-position/issues"
+  },
+  "homepage": "https://github.com/azu/render-markdown-with-position",
+  "dependencies": {
+    "@azu/hast-util-to-html": "^3.1.0",
+    "hast-util-sanitize": "^1.1.0",
+    "mdast-util-to-hast": "^2.2.0",
+    "remark": "^6.2.0",
+    "xtend": "^4.0.1"
+  }
+}
