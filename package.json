@@ -6,7 +6,7 @@
   "license": "MIT",
   "files": [
     "bin/",
-    "lib/",
+    "lib/"
   ],
   "name": "render-markdown-with-position",
   "version": "1.0.0",
