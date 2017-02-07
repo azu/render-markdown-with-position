@@ -11,7 +11,7 @@
   "name": "render-markdown-with-position",
   "version": "1.0.0",
   "description": "Render markdown to HTML with data-position",
-  "main": "lib/render-markdown-with-position.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "node test/index-test.js"
   },

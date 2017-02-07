@@ -52,3 +52,5 @@ For bugs and feature requests, [please create an issue](https://github.com/azu/r
 ## License
 
 MIT © azu
+
+Thanks to [wooorm/remark-html: Compile Markdown to HTML with remark](https://github.com/wooorm/remark-html "wooorm/remark-html: Compile Markdown to HTML with remark")
