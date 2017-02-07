@@ -9,7 +9,7 @@
     "lib/"
   ],
   "name": "render-markdown-with-position",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Render markdown to HTML with data-position",
   "main": "lib/index.js",
   "scripts": {
